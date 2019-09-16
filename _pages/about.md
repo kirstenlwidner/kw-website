@@ -2,7 +2,9 @@
 layout: about
 permalink: /
 title: <strong>Kirsten Widner</strong>
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+menu: about
+description:
+navigation_weight: 1
 
 profile:
   align: left

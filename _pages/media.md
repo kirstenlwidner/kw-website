@@ -1,4 +1,11 @@
-**Selected Media**
+---
+layout: page
+permalink: /media/
+menu: media
+title: Media
+description: Selected Media Appearances
+navigation_weight: 4
+---
 
 "Stopping Traffic" *Emory Magazine*, Spring 2017
 \[<https://www.emory.edu/EMORY_MAGAZINE/issues/2017/spring/features/stopping-traffic/index.html>\]
