@@ -23,8 +23,7 @@ strategies than organizations representing other social groups. Using an
 original survey of nonprofit advocacy organizations, this paper finds
 evidence that advocacy organizations working on behalf of the unenfranchised allocate more of their policy efforts to media advocacy and litigation than do other interest groups.
 
-**Legislating at the Intersections: Race, Gender, and Representation**
-\[<https://journals.sagepub.com/doi/abs/10.1177/1065912919858405>\]
+**[Legislating at the Intersections: Race, Gender, and Representation](https://journals.sagepub.com/doi/abs/10.1177/1065912919858405>)**
 with Beth Reingold and Rachel Harmon. Forthcoming in *Political Research
 Quarterly*.
 
@@ -61,9 +60,8 @@ percent more likely to win an exemption suit in federal courts. In
 contrast, bias in favor of majority religions and judicial ideology fail
 to explain these cases' outcomes.
 
-**In Defense of the Black/White Binary: Reclaiming a Tradition of Civil
-Rights Scholarship**
-\[<https://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1100&context=bjalp>\]
+**[In Defense of the Black/White Binary: Reclaiming a Tradition of Civil
+Rights Scholarship](https://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1100&context=bjalp)**
 with Roy L. Brooks, *Berkeley Journal of African-American Law & Policy*
 12(1): 107-144.
 
@@ -74,10 +72,9 @@ people in America warrants special attention in the study of law and
 policy, and that this special attention does not relegate other racial
 or ethnic groups to second class status.
 
-**Continuing the Evolution: Why California Should Amend Family Code
+**[Continuing the Evolution: Why California Should Amend Family Code
 Section 8616.5 to Allow Visitation in All Postadoption Contract
-Agreements**
-\[<https://digital.sandiego.edu/cgi/viewcontent.cgi?article=2781&context=sdlr>\]
+Agreements](https://digital.sandiego.edu/cgi/viewcontent.cgi?article=2781&context=sdlr)**
 *San Diego Law Review* 44(2): 355-386.
 
 This Comment argues that California should continue the evolution of its
