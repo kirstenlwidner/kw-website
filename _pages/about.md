@@ -3,13 +3,13 @@ layout: about
 permalink: /
 title: <strong>Kirsten Widner</strong>
 menu: about
-description:
+description: kwidner@emory.edu
 navigation_weight: 1
 
 profile:
   align: left
   image: WidnerEmoryWindowProfile.jpg
-  address: 
+  address:
 
 news: false
 social: true
