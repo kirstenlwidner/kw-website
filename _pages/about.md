@@ -32,7 +32,7 @@ disadvantage facing the groups that currently lack the right to vote in
 the United States -- children, non-citizens, and people disenfranchised
 due to felony convictions or mental incapacity -- lead the organizations
 that represent them to emphasize different funding sources and advocacy
-techniques that organizations representing other groups.
+techniques than organizations representing other groups.
 
 Other projects examine how increasing diversity in state legislatures
 affects attention to policy issues affecting the most marginalized
