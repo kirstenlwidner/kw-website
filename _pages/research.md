@@ -7,8 +7,8 @@ description:
 navigation_weight: 2
 ---
 
-**Advocacy for the Powerless: How Nonprofit Advocacy Organizations
-Advance the Interests of the Unenfranchised**
+**[Advocacy for the Powerless: How Nonprofit Advocacy Organizations
+Advance the Interests of the Unenfranchised]({{ site.url }}/assets/pdf/Widner_JMP_9-27-19.pdf)**
 
 Advocacy organizations provide important policy representation for the
 nearly one-third of the population of the U.S. that lacks the right to vote -- children,
@@ -23,9 +23,9 @@ strategies than organizations representing other social groups. Using an
 original survey of nonprofit advocacy organizations, this paper finds
 evidence that advocacy organizations working on behalf of the unenfranchised allocate more of their policy efforts to media advocacy and litigation than do other interest groups.
 
-**[Legislating at the Intersections: Race, Gender, and Representation](https://journals.sagepub.com/doi/abs/10.1177/1065912919858405>)**
+**[Legislating at the Intersections: Race, Gender, and Representation]({{ site.url }}/assets/pdf/LegislatingIntersections_29May19.pdf)**
 with Beth Reingold and Rachel Harmon. Forthcoming in *Political Research
-Quarterly*.
+Quarterly **.
 
 Record numbers of women, and in particular women of color, are gaining
 elective office across the country. This article explores how their
